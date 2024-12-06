@@ -2,6 +2,8 @@
 
 Hello! 
 This is a spotdl Wrapper for mac, I used Applescript and Platypus (https://sveinbjorn.org/platypus) to make it. Enjoy :)
+You can download the latest version from releases - 
+
 You need:
 
 
