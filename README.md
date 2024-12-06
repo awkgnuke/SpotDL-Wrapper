@@ -2,7 +2,7 @@
 
 Hello! 
 This is a spotdl Wrapper for mac, I used Applescript and Platypus (https://sveinbjorn.org/platypus) to make it. Enjoy :)
-You can download the latest version from releases - 
+You can download the latest version from releases - https://github.com/awkgnuke/SpotDL-Wrapper/releases/tag/Latest
 
 You need:
 
