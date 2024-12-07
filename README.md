@@ -13,10 +13,10 @@ You need:
 - spotdl and its dependencies - installed through pip
 
 To Do:
-  Make music auto-sorted into folders in Artist/Album/Music format
-  Fix Any Bugs:
-  OG App not quitting when helper appears
-  The Helper not being breought to the front on launch
+  - Make music auto-sorted into folders in Artist/Album/Music format
+Fix Any Bugs:
+  - OG App not quitting when helper appears
+  - The Helper not being breought to the front on launch
 
 ## Acknowledgements
 Platypus
