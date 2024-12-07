@@ -19,8 +19,6 @@ Fix Any Bugs:
   - OG App not quitting when helper appears
   - The Helper not being brought to the front on launch
 
-Complete Change of how it works, now nolonger uses 2 apps, should work better overall, please open an issue if you find a bug or want to request a feature, this is a hobby so I'lll unlikely be actively developing it, but I will do my best to keep it updated
-
 ## Acknowledgements
 - Platypus
 - AppleScript
