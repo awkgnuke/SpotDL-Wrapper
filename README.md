@@ -17,7 +17,7 @@ To Do:
   - make pip update and make spotdl update whenever the app is launched/whenever the computer is turned on
 Fix Any Bugs:
   - OG App not quitting when helper appears
-  - The Helper not being breought to the front on launch
+  - The Helper not being brought to the front on launch
 
 ## Acknowledgements
 - Platypus
