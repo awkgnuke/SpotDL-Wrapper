@@ -20,6 +20,6 @@ Fix Any Bugs:
   - The Helper not being breought to the front on launch
 
 ## Acknowledgements
-Platypus
-AppleScript
-The Makers of spotdl for an incredible utility!
+- Platypus
+- AppleScript
+- The Makers of spotdl for an incredible utility!
